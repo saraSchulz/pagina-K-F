@@ -12,7 +12,7 @@ section{
 }
 a{
   color: #fff;
-  text-decoration: none;
+  text-decoration: no;
 }
 a:hover{
   color: #000;
