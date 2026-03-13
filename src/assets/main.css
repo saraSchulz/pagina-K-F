@@ -10,3 +10,10 @@ section{
   width: 100%;
   margin: 0;
 }
+a{
+  color: #fff;
+  text-decoration: none;
+}
+a:hover{
+  color: #000;
+}
